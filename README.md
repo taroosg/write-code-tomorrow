@@ -34,6 +34,14 @@ _class:
 - プロダクトをつくる流れを忘れる．
 - 人生を楽しめなくなる．
 
+## ChatGPT
+
+<!--
+_class:
+ - lead
+ - invert
+-->
+
 ## Why?
 
 ChatGPT があるから書かなくてよくね？
